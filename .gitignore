@@ -1,19 +1,2 @@
-/common
-/console
-/environments
 
-
-/tests
 /vendor
-/wanhunet
-/.bowerrc
-
-/composer.json
-/composer.lock
-/init
-/init.bat
-/LICENSE.md
-/README.md
-/requirements.php
-/yii
-/yii.bat
