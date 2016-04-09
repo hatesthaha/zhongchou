@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40d28955-bacb-415b-bd58-ae43a760ee1b" name="默认的" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/style/images/c1.png" afterPath="$PROJECT_DIR$/frontend/web/style/images/c1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/style/images/c2.png" afterPath="$PROJECT_DIR$/frontend/web/style/images/c2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/style/images/c3.png" afterPath="$PROJECT_DIR$/frontend/web/style/images/c3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/style/images/c4.png" afterPath="$PROJECT_DIR$/frontend/web/style/images/c4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/style/images/d.png" afterPath="$PROJECT_DIR$/frontend/web/style/images/d.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/style/images/selft-list2.png" afterPath="$PROJECT_DIR$/frontend/web/style/images/selft-list2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/style/images/selft-list3.png" afterPath="$PROJECT_DIR$/frontend/web/style/images/selft-list3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/style/images/selft-list4.png" afterPath="$PROJECT_DIR$/frontend/web/style/images/selft-list4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/style/images/selft-list6.png" afterPath="$PROJECT_DIR$/frontend/web/style/images/selft-list6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/config/main-local.php" afterPath="$PROJECT_DIR$/backend/config/main-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/config/params.php" afterPath="$PROJECT_DIR$/backend/config/params.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/controllers/BackendController.php" afterPath="$PROJECT_DIR$/backend/controllers/BackendController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/controllers/InvoiceController.php" afterPath="$PROJECT_DIR$/backend/controllers/InvoiceController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/controllers/MemberController.php" afterPath="$PROJECT_DIR$/backend/controllers/MemberController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/controllers/ProductController.php" afterPath="$PROJECT_DIR$/backend/controllers/ProductController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/controllers/YyzcController.php" afterPath="$PROJECT_DIR$/backend/controllers/YyzcController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/messages/zh-CN/app.php" afterPath="$PROJECT_DIR$/backend/messages/zh-CN/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/models/Invoice.php" afterPath="$PROJECT_DIR$/backend/models/Invoice.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/models/Member.php" afterPath="$PROJECT_DIR$/backend/models/Member.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/models/Product.php" afterPath="$PROJECT_DIR$/backend/models/Product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/models/ProductSearch.php" afterPath="$PROJECT_DIR$/backend/models/ProductSearch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/models/Yyzc.php" afterPath="$PROJECT_DIR$/backend/models/Yyzc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/views/article/index.php" afterPath="$PROJECT_DIR$/backend/views/article/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/views/article/view.php" afterPath="$PROJECT_DIR$/backend/views/article/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/views/invoice/fahuo.php" afterPath="$PROJECT_DIR$/backend/views/invoice/fahuo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/views/layouts/sidebar-menu.php" afterPath="$PROJECT_DIR$/backend/views/layouts/sidebar-menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/views/member/_form.php" afterPath="$PROJECT_DIR$/backend/views/member/_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/views/member/index.php" afterPath="$PROJECT_DIR$/backend/views/member/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/views/product/_form.php" afterPath="$PROJECT_DIR$/backend/views/product/_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/views/product/index.php" afterPath="$PROJECT_DIR$/backend/views/product/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/views/product/view.php" afterPath="$PROJECT_DIR$/backend/views/product/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/views/slider/_form.php" afterPath="$PROJECT_DIR$/backend/views/slider/_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/views/term/view.php" afterPath="$PROJECT_DIR$/backend/views/term/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/views/yyzc/_form.php" afterPath="$PROJECT_DIR$/backend/views/yyzc/_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/views/yyzc/index.php" afterPath="$PROJECT_DIR$/backend/views/yyzc/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/views/yyzc/view.php" afterPath="$PROJECT_DIR$/backend/views/yyzc/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/web/index.php" afterPath="$PROJECT_DIR$/backend/web/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/config/main-local.php" afterPath="$PROJECT_DIR$/common/config/main-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/config/params.php" afterPath="$PROJECT_DIR$/common/config/params.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/config/main-local.php" afterPath="$PROJECT_DIR$/frontend/config/main-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/config/main.php" afterPath="$PROJECT_DIR$/frontend/config/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/config/params.php" afterPath="$PROJECT_DIR$/frontend/config/params.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/controllers/AddressController.php" afterPath="$PROJECT_DIR$/frontend/controllers/AddressController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/controllers/CenterController.php" afterPath="$PROJECT_DIR$/frontend/controllers/CenterController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/controllers/FriendController.php" afterPath="$PROJECT_DIR$/frontend/controllers/FriendController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/controllers/IsonloadController.php" afterPath="$PROJECT_DIR$/frontend/controllers/IsonloadController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/controllers/MessageController.php" afterPath="$PROJECT_DIR$/frontend/controllers/MessageController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/controllers/OrderController.php" afterPath="$PROJECT_DIR$/frontend/controllers/OrderController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/controllers/PayController.php" afterPath="$PROJECT_DIR$/frontend/controllers/PayController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/controllers/ProjectController.php" afterPath="$PROJECT_DIR$/frontend/controllers/ProjectController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/controllers/SearchController.php" afterPath="$PROJECT_DIR$/frontend/controllers/SearchController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/controllers/SiteController.php" afterPath="$PROJECT_DIR$/frontend/controllers/SiteController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/controllers/SortController.php" afterPath="$PROJECT_DIR$/frontend/controllers/SortController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/controllers/YyzcController.php" afterPath="$PROJECT_DIR$/frontend/controllers/YyzcController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/address/chooseaddress.php" afterPath="$PROJECT_DIR$/frontend/views/address/chooseaddress.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/address/manageaddress.php" afterPath="$PROJECT_DIR$/frontend/views/address/manageaddress.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/center/aboutus.php" afterPath="$PROJECT_DIR$/frontend/views/center/aboutus.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/center/commonproblem.php" afterPath="$PROJECT_DIR$/frontend/views/center/commonproblem.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/center/infohead.php" afterPath="$PROJECT_DIR$/frontend/views/center/infohead.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/center/infophone.php" afterPath="$PROJECT_DIR$/frontend/views/center/infophone.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/center/personalcenter.php" afterPath="$PROJECT_DIR$/frontend/views/center/personalcenter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/center/personaldata.php" afterPath="$PROJECT_DIR$/frontend/views/center/personaldata.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/center/vintroduce.php" afterPath="$PROJECT_DIR$/frontend/views/center/vintroduce.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/friend/addfriends.php" afterPath="$PROJECT_DIR$/frontend/views/friend/addfriends.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/friend/myconcern.php" afterPath="$PROJECT_DIR$/frontend/views/friend/myconcern.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/friend/myfans.php" afterPath="$PROJECT_DIR$/frontend/views/friend/myfans.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/layouts/main.php" afterPath="$PROJECT_DIR$/frontend/views/layouts/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/order/Orderfahuo.php" afterPath="$PROJECT_DIR$/frontend/views/order/Orderfahuo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/order/myorder.php" afterPath="$PROJECT_DIR$/frontend/views/order/myorder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/order/orderdetails.php" afterPath="$PROJECT_DIR$/frontend/views/order/orderdetails.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/order/orderinformation.php" afterPath="$PROJECT_DIR$/frontend/views/order/orderinformation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/pay/payinformation.php" afterPath="$PROJECT_DIR$/frontend/views/pay/payinformation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/pay/weixinpay.php" afterPath="$PROJECT_DIR$/frontend/views/pay/weixinpay.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/project/mylaunch.php" afterPath="$PROJECT_DIR$/frontend/views/project/mylaunch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/project/projectdetails.php" afterPath="$PROJECT_DIR$/frontend/views/project/projectdetails.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/project/wanttolaunch.php" afterPath="$PROJECT_DIR$/frontend/views/project/wanttolaunch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/register/register.php" afterPath="$PROJECT_DIR$/frontend/views/register/register.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/search/searchitem.php" afterPath="$PROJECT_DIR$/frontend/views/search/searchitem.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/search/searchitemresult.php" afterPath="$PROJECT_DIR$/frontend/views/search/searchitemresult.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/site/index.php" afterPath="$PROJECT_DIR$/frontend/views/site/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/yyzc/itemlist.php" afterPath="$PROJECT_DIR$/frontend/views/yyzc/itemlist.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/yyzc/projectdetailsyy.php" afterPath="$PROJECT_DIR$/frontend/views/yyzc/projectdetailsyy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/yyzc/projectdetailsyyn1.php" afterPath="$PROJECT_DIR$/frontend/views/yyzc/projectdetailsyyn1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/yyzc/projectdetailsyyn2.php" afterPath="$PROJECT_DIR$/frontend/views/yyzc/projectdetailsyyn2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/yyzc/projectdetailsyyn3.php" afterPath="$PROJECT_DIR$/frontend/views/yyzc/projectdetailsyyn3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/yyzc/projectdetailsyyw.php" afterPath="$PROJECT_DIR$/frontend/views/yyzc/projectdetailsyyw.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/yyzc/projectdetailsyyy.php" afterPath="$PROJECT_DIR$/frontend/views/yyzc/projectdetailsyyy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/yyzc/projectdetailsyyyn1.php" afterPath="$PROJECT_DIR$/frontend/views/yyzc/projectdetailsyyyn1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/css/site.css" afterPath="$PROJECT_DIR$/frontend/web/css/site.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/index.php" afterPath="$PROJECT_DIR$/frontend/web/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/style/css/reset.css" afterPath="$PROJECT_DIR$/frontend/web/style/css/reset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/style/css/style.css" afterPath="$PROJECT_DIR$/frontend/web/style/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/style/js/index.js" afterPath="$PROJECT_DIR$/frontend/web/style/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/style/js/reset.js" afterPath="$PROJECT_DIR$/frontend/web/style/js/reset.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/ezyang/htmlpurifier/benchmarks/samples/Lexer/4.html" afterPath="$PROJECT_DIR$/vendor/ezyang/htmlpurifier/benchmarks/samples/Lexer/4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/kartik-v/yii2-grid/assets/js/store.js" afterPath="$PROJECT_DIR$/vendor/kartik-v/yii2-grid/assets/js/store.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/payment/wxpay/class/PayNotifyCallBack.php" afterPath="$PROJECT_DIR$/vendor/payment/wxpay/class/PayNotifyCallBack.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/payment/wxpay/class/ProstaChange.php" afterPath="$PROJECT_DIR$/vendor/payment/wxpay/class/ProstaChange.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/payment/wxpay/lib/WxPay.Api.php" afterPath="$PROJECT_DIR$/vendor/payment/wxpay/lib/WxPay.Api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/payment/wxpay/lib/WxPay.Config.php" afterPath="$PROJECT_DIR$/vendor/payment/wxpay/lib/WxPay.Config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/payment/wxpay/lib/WxPay.Data.php" afterPath="$PROJECT_DIR$/vendor/payment/wxpay/lib/WxPay.Data.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/payment/wxpay/lib/WxPay.JsApiPay.php" afterPath="$PROJECT_DIR$/vendor/payment/wxpay/lib/WxPay.JsApiPay.php" />
+    </list>
+    <ignored path="zc.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="zc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backend/views/caiwu/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.46596065">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1604" />
+    <option name="height" value="886" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="添加" />
+    <ConfirmationsSetting value="0" id="移除" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="caiwu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="configurable.group.editor" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40d28955-bacb-415b-bd58-ae43a760ee1b" name="默认的" comment="" />
+      <created>1460184186260</created>
+      <option name="number" value="Default" />
+      <updated>1460184186260</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1604" height="886" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/backend/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/views/caiwu/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46596065">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

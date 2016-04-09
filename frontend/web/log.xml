@@ -1,0 +1,231 @@
+23:07:13 R <xml><ToUserName><![CDATA[gh_3c6453cc9151]]></ToUserName>
+<FromUserName><![CDATA[o-jZzt_5xpx6VEvws8ZdS0_on8uE]]></FromUserName>
+<CreateTime>1459350435</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[我的二维码]]></EventKey>
+</xml>
+23:07:13 T <xml>
+<ToUserName><![CDATA[o-jZzt_5xpx6VEvws8ZdS0_on8uE]]></ToUserName>
+<FromUserName><![CDATA[gh_3c6453cc9151]]></FromUserName>
+<CreateTime>1459350433</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[点击菜单：我的二维码]]></Content>
+</xml>
+23:07:18 R <xml><ToUserName><![CDATA[gh_3c6453cc9151]]></ToUserName>
+<FromUserName><![CDATA[o-jZzt_5xpx6VEvws8ZdS0_on8uE]]></FromUserName>
+<CreateTime>1459350439</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[了解仌仌]]></EventKey>
+</xml>
+23:07:18 T <xml>
+<ToUserName><![CDATA[o-jZzt_5xpx6VEvws8ZdS0_on8uE]]></ToUserName>
+<FromUserName><![CDATA[gh_3c6453cc9151]]></FromUserName>
+<CreateTime>1459350438</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[点击菜单：了解仌仌]]></Content>
+</xml>
+23:07:22 R <xml><ToUserName><![CDATA[gh_3c6453cc9151]]></ToUserName>
+<FromUserName><![CDATA[o-jZzt_5xpx6VEvws8ZdS0_on8uE]]></FromUserName>
+<CreateTime>1459350444</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[联系客服]]></EventKey>
+</xml>
+23:07:22 T <xml>
+<ToUserName><![CDATA[o-jZzt_5xpx6VEvws8ZdS0_on8uE]]></ToUserName>
+<FromUserName><![CDATA[gh_3c6453cc9151]]></FromUserName>
+<CreateTime>1459350442</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[点击菜单：联系客服]]></Content>
+</xml>
+09:44:47 R <xml><ToUserName><![CDATA[gh_3c6453cc9151]]></ToUserName>
+<FromUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></FromUserName>
+<CreateTime>1459388688</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+09:44:47 T <xml>
+<ToUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></ToUserName>
+<FromUserName><![CDATA[gh_3c6453cc9151]]></FromUserName>
+<CreateTime>1459388687</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[取消关注]]></Content>
+</xml>
+09:44:58 R <xml><ToUserName><![CDATA[gh_3c6453cc9151]]></ToUserName>
+<FromUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></FromUserName>
+<CreateTime>1459388700</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+09:44:58 T <xml>
+<ToUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></ToUserName>
+<FromUserName><![CDATA[gh_3c6453cc9151]]></FromUserName>
+<CreateTime>1459388698</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[欢迎关注方倍工作室 ]]></Content>
+</xml>
+09:47:30 R <xml><ToUserName><![CDATA[gh_3c6453cc9151]]></ToUserName>
+<FromUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></FromUserName>
+<CreateTime>1459388851</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[COMPANY]]></Content>
+<MsgId>6268027387594996714</MsgId>
+</xml>
+09:47:30 T <xml>
+<ToUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></ToUserName>
+<FromUserName><![CDATA[gh_3c6453cc9151]]></FromUserName>
+<CreateTime>1459388850</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2016-03-31 09:47:30
+o-jZztzSDsqJdA3ks1ngORlKNz-A
+技术支持 方倍工作室]]></Content>
+</xml>
+09:51:21 R <xml><ToUserName><![CDATA[gh_3c6453cc9151]]></ToUserName>
+<FromUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></FromUserName>
+<CreateTime>1459389080</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[MASSSENDJOBFINISH]]></Content>
+<MsgId>6268028371142507612</MsgId>
+</xml>
+09:51:21 T <xml>
+<ToUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></ToUserName>
+<FromUserName><![CDATA[gh_3c6453cc9151]]></FromUserName>
+<CreateTime>1459389081</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2016-03-31 09:51:21
+o-jZztzSDsqJdA3ks1ngORlKNz-A
+技术支持 方倍工作室]]></Content>
+</xml>
+09:51:56 R <xml><ToUserName><![CDATA[gh_3c6453cc9151]]></ToUserName>
+<FromUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></FromUserName>
+<CreateTime>1459389117</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[二维码]]></Content>
+<MsgId>6268028530056297582</MsgId>
+</xml>
+09:51:56 T <xml>
+<ToUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></ToUserName>
+<FromUserName><![CDATA[gh_3c6453cc9151]]></FromUserName>
+<CreateTime>1459389116</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2016-03-31 09:51:56
+o-jZztzSDsqJdA3ks1ngORlKNz-A
+技术支持 方倍工作室]]></Content>
+</xml>
+09:58:53 R <xml><ToUserName><![CDATA[gh_3c6453cc9151]]></ToUserName>
+<FromUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></FromUserName>
+<CreateTime>1459389533</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[二维码]]></Content>
+<MsgId>6268030316762692948</MsgId>
+</xml>
+09:58:53 T <xml>
+<ToUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></ToUserName>
+<FromUserName><![CDATA[gh_3c6453cc9151]]></FromUserName>
+<CreateTime>1459389533</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2016-03-31 09:58:53
+o-jZztzSDsqJdA3ks1ngORlKNz-A
+技术支持 方倍工作室]]></Content>
+</xml>
+10:00:51 R <xml><ToUserName><![CDATA[gh_3c6453cc9151]]></ToUserName>
+<FromUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></FromUserName>
+<CreateTime>1459389652</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[二维码]]></Content>
+<MsgId>6268030827863801222</MsgId>
+</xml>
+10:00:51 T <xml>
+<ToUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></ToUserName>
+<FromUserName><![CDATA[gh_3c6453cc9151]]></FromUserName>
+<CreateTime>1459389651</CreateTime>
+<MsgType><![CDATA[news]]></MsgType>
+<ArticleCount>1</ArticleCount>
+<Articles>
+    <item>
+        <Title><![CDATA[二维码]]></Title>
+        <Description><![CDATA[二维码]]></Description>
+        <PicUrl><![CDATA[http://discuz.comli.com/weixin/weather/icon/cartoon.jpg]]></PicUrl>
+        <Url><![CDATA[http://discuz.comli.com/weixin/weather/icon/cartoon.jpg]]></Url>
+    </item>
+</Articles>
+</xml>
+15:30:07 R <xml><ToUserName><![CDATA[gh_3c6453cc9151]]></ToUserName>
+<FromUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></FromUserName>
+<CreateTime>1459409408</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+15:30:07 T <xml>
+<ToUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></ToUserName>
+<FromUserName><![CDATA[gh_3c6453cc9151]]></FromUserName>
+<CreateTime>1459409407</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[取消关注]]></Content>
+</xml>
+15:30:19 R <xml><ToUserName><![CDATA[gh_3c6453cc9151]]></ToUserName>
+<FromUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></FromUserName>
+<CreateTime>1459409420</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+15:30:19 T <xml>
+<ToUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></ToUserName>
+<FromUserName><![CDATA[gh_3c6453cc9151]]></FromUserName>
+<CreateTime>1459409419</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[欢迎关注仌仌众梦 ]]></Content>
+</xml>
+15:30:29 R <xml><ToUserName><![CDATA[gh_3c6453cc9151]]></ToUserName>
+<FromUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></FromUserName>
+<CreateTime>1459409429</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[论坛]]></Content>
+<MsgId>6268115769432023882</MsgId>
+</xml>
+15:30:29 T <xml>
+<ToUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></ToUserName>
+<FromUserName><![CDATA[gh_3c6453cc9151]]></FromUserName>
+<CreateTime>1459409429</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2016-03-31 15:30:29
+o-jZztzSDsqJdA3ks1ngORlKNz-A
+技术支持 方倍工作室]]></Content>
+</xml>
+15:31:27 R <xml><ToUserName><![CDATA[gh_3c6453cc9151]]></ToUserName>
+<FromUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></FromUserName>
+<CreateTime>1459409488</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[论坛]]></Content>
+<MsgId>6268116022835094376</MsgId>
+</xml>
+15:31:27 T <xml>
+<ToUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></ToUserName>
+<FromUserName><![CDATA[gh_3c6453cc9151]]></FromUserName>
+<CreateTime>1459409487</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2016-03-31 15:31:27
+o-jZztzSDsqJdA3ks1ngORlKNz-A
+技术支持 万虎网络]]></Content>
+</xml>
+15:47:24 R <xml><ToUserName><![CDATA[gh_3c6453cc9151]]></ToUserName>
+<FromUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></FromUserName>
+<CreateTime>1459410446</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>402990454</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+15:47:24 T <xml>
+<ToUserName><![CDATA[o-jZztzSDsqJdA3ks1ngORlKNz-A]]></ToUserName>
+<FromUserName><![CDATA[gh_3c6453cc9151]]></FromUserName>
+<CreateTime>1459410444</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[receive a new event: TEMPLATESENDJOBFINISH]]></Content>
+</xml>
